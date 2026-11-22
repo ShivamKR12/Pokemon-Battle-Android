@@ -17,6 +17,8 @@ source.include_exts = py,png,jpg,jpeg,ogg,wav,mp3,ttf,otf,json,atlas
 
 # (str) Icon of the application
 icon.filename = %(source.dir)s/images/simple/Sparchu.png
+icon.adaptive_foreground.filename = %(source.dir)s/images/simple/icon_fg.png
+icon.adaptive_background.filename = %(source.dir)s/images/simple/icon_bg.png
 
 # (str) Application versioning
 version = 1.0
